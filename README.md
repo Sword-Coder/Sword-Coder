@@ -7,7 +7,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **My Store(https://sword-coder.w3spaces.com/)**
+- 🔭 I’m currently working on **My Store(https://sword-coder.w3spaces.com/) and Custom Video Player for my Scripture Verses**
 
 - 🌱 I’m currently learning **Data Structures and Algorithms.**
 
